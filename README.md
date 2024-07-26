@@ -1,4 +1,6 @@
-## Hi there 👋
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<h1 align="center">Hello, I'm Ahmed Omran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h3 align="center">Android Developer from Egypt 🌍</h3>
 
 <!--
 **Ahmed-Samy-Omran/Ahmed-Samy-Omran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
