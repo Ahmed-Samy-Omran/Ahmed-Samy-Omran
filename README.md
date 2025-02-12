@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **omranahmed385@gmail.com**
 
-- 📄 Look at my CV [**here**](https://drive.google.com/file/d/10jrndmQSLN14QUlTLZF-ebKtRHEanVwD/view?usp=drive_link)
+- 📄 Look at my CV [**here**](https://drive.google.com/file/d/1elZ6PNZmoDop7zf2y4QS-FW9Y-6T_0bN/view)
   
   <h3 align="left">Connect with me</h3>
 <p align="left">
