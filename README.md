@@ -2,6 +2,16 @@
 <h1 align="center">Hello, I'm Ahmed Omran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <h3 align="center">Android Developer from Egypt 🌍</h3>
 
+## 👨‍💻 Technologies I Work With:
+- **Android Development** 📱
+  - Kotlin, Java ☕
+  - Jetpack Compose ✨
+  - Dependency Injection 🧳
+  - MVVM,MVI Clean Architecture 🏗️
+  - Firebase 🔥
+- **Version Control** 🛠️
+  - Git, GitHub 🧑‍💻
+
 - 📫 How to reach me **omranahmed385@gmail.com**
 
 - 📄 Look at my CV [**here**](https://drive.google.com/file/d/1elZ6PNZmoDop7zf2y4QS-FW9Y-6T_0bN/view)
