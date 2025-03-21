@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **omranahmed385@gmail.com**
 
-- 📄 Look at my CV [**here**](https://drive.google.com/file/d/1elZ6PNZmoDop7zf2y4QS-FW9Y-6T_0bN/view)
+- 📄 Look at my CV [**here**](https://drive.google.com/file/d/1-DgzJmC36CvrGqV5TEv42xFL_JkfHP29/view?usp=sharing)
   
   <h3 align="left">Connect with me</h3>
 <p align="left">
