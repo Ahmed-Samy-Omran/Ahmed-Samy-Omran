@@ -4,11 +4,15 @@
 
 ## 👨‍💻 Technologies I Work With:
 - **Android Development** 📱
-  - Kotlin, Java ☕
-  - Jetpack Compose ✨
-  - Dependency Injection 🧳
-  - MVVM,MVI Clean Architecture 🏗️
-  - Firebase 🔥
+  - Kotlin, Java ☕  
+  - Android SDK 📱  
+  - Jetpack Compose & XML UI ✨  
+  - MVVM & Clean Architecture 🏗️  
+  - Coroutines, Flow, StateFlow ⚡  
+  - Dependency Injection (Hilt, Koin) 🧳  
+  - Retrofit & REST APIs 🌐  
+  - Room & Firebase 🔥  
+  - Google Maps SDK 🗺️ 
 - **Version Control** 🛠️
   - Git, GitHub 🧑‍💻
  
