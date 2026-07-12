@@ -54,16 +54,16 @@ I am the creator of [**OdooGen**](https://github.com/Ahmed-Samy-Omran/Odoo-Gener
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 GitHub Streak
+
+<p align="center">
+    <a href="https://github.com/Ahmed-Samy-Omran">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Samy-Omran&theme=radical&hide_border=false" alt="GitHub Streak" />
+    </a>
+</p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Samy-Omran&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Samy-Omran&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Samy-Omran&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Samy-Omran&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 
