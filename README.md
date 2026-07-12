@@ -42,31 +42,30 @@ I am the creator of [**OdooGen**](https://github.com/Ahmed-Samy-Omran/Odoo-Gener
 ## 🛠️ Languages and Tools:
 
 <p align="left">
-<a href="https://odoo.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg" alt="odoo" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Odoo-0D3A58?style=for-the-badge&logo=odoo&logoColor=white" alt="odoo" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
+  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 </p>
 
 ---
 
-## 📈 Github Stats
+## 📈 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Samy-Omran&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Samy-Omran&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Samy-Omran&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Samy-Omran&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ahmed-Samy-Omran&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
 
 ## 📫 Connect with Me
 
