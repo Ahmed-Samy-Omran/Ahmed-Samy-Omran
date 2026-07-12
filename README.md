@@ -1,59 +1,81 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hello, I'm Ahmed Omran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<h3 align="center">Android Developer from Egypt 🌍</h3>
+<h3 align="center">Odoo Developer | Android Developer | ERP Architect 🌍</h3>
+
+---
+
+## 🌟 Featured Project: OdooGen
+
+I am the creator of [**OdooGen**](https://github.com/Ahmed-Samy-Omran/Odoo-Generation-), an AI-orchestrated platform designed to automate Odoo module architecture.
+
+> **Impact:** Bridges the gap between business requirements and technical execution, allowing for rapid generation of production-ready Odoo modules with visual ERD support.
+
+---
 
 ## 👨‍💻 Technologies I Work With:
-- **Android Development** 📱
-  - Kotlin, Java ☕  
-  - Android SDK 📱  
-  - Jetpack Compose & XML UI ✨  
-  - MVVM & Clean Architecture 🏗️  
-  - Coroutines, Flow, StateFlow ⚡  
-  - Dependency Injection (Hilt, Koin) 🧳  
-  - Retrofit & REST APIs 🌐  
-  - Room & Firebase 🔥  
-  - Google Maps SDK 🗺️ 
-- **Version Control** 🛠️
-  - Git, GitHub 🧑‍💻
- 
 
+### 💜 Odoo & ERP Ecosystem
 
+- **Core Odoo**: Python, PostgreSQL, Odoo ORM, XML Views, QWeb Reports.
 
-- 📫 How to reach me **omranahmed385@gmail.com**
+- **Advanced Backend**: FastAPI, Asynchronous Programming, REST APIs.
 
-- 📄 Look at my CV [**here**](https://drive.google.com/file/d/13isJjVS6_C4Y7aUQoaP-mSUN-FzYCfI6/view?usp=sharing)
-  
-  <h3 align="left">Connect with me</h3>
+- **AI Integration**: LLM Orchestration (Gemini, OpenRouter), RAG (ChromaDB, Sentence Transformers).
+
+- **Automation**: GitHub API Integration, Docker for CI/CD.
+
+### 📱 Android Development
+
+- **Languages**: Kotlin, Java ☕
+
+- **Architecture**: MVVM, Clean Architecture, Jetpack Compose ✨
+
+- **Reactive**: Coroutines, Flow, StateFlow ⚡
+
+- **Storage & Networking**: Retrofit, Room, Firebase 🔥, Google Maps SDK 🗺️
+
+- **DI**: Hilt, Koin 🧳
+
+---
+
+## 🛠️ Languages and Tools:
+
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmed-omran-a73621256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedomran" height="30" width="40" /></a>
+<a href="https://odoo.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg" alt="odoo" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  </p>
+---
 
-  
+## 📈 Github Stats
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Samy-Omran&show_icons=true&locale=en&layout=compact&theme=radical" alt="ahmedomran" /></p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Samy-Omran&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Samy-Omran&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Samy-Omran&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p > <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Samy-Omran&show_icons=true&theme=radical" alt="ahmedomran" /> </p>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Samy-Omran&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedomran" /> </p>
+## 📫 Connect with Me
 
+- 📧 **Email**: [omranahmed385@gmail.com](mailto:omranahmed385@gmail.com)
 
-<!--
-**Ahmed-Samy-Omran/Ahmed-Samy-Omran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 **LinkedIn**: [Ahmed Omran](https://www.linkedin.com/in/ahmed-omran-a73621256/)
 
-Here are some ideas to get you started:
+- 📄 **Android CV**: [View My CV](https://drive.google.com/file/d/1kkgm8LPcfYWITQJ9D4aDQjMZxec4kSK7/view?usp=sharing)
+- 📄 **Odoo CV**: [View My CV](https://drive.google.com/file/d/1C6SN_4SE4SJQax4qgC26CgEPxyLx5Fr1/view?usp=sharing)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*“Crafting intelligent ERPs and seamless mobile experiences.”* 🚀
