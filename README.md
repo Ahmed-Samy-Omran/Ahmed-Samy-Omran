@@ -74,7 +74,7 @@ I am the creator of [**OdooGen**](https://github.com/Ahmed-Samy-Omran/Odoo-Gener
 - 💼 **LinkedIn**: [Ahmed Omran](https://www.linkedin.com/in/ahmed-omran-a73621256/)
 
 - 📄 **Android CV**: [View My CV](https://drive.google.com/file/d/1kkgm8LPcfYWITQJ9D4aDQjMZxec4kSK7/view?usp=sharing)
-- 📄 **Odoo CV**: [View My CV](https://drive.google.com/file/d/1CxUp4fNBVGxUBVxerDEjMofn8wjwdcgH/view?usp=sharing)
+- 📄 **Odoo CV**: [View My CV](https://drive.google.com/file/d/17SYdUyOJGUsrUvZiWU8tFzZDkQX9MrvT/view?usp=sharing)
 ---
 
 *“Crafting intelligent ERPs and seamless mobile experiences.”* 🚀
