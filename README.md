@@ -77,14 +77,19 @@ an AI-orchestrated platform designed to automate Odoo module architecture.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Samy-Omran&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Samy-Omran&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://img.shields.io/github/followers/Ahmed-Samy-Omran?style=for-the-badge&color=714B67" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Ahmed-Samy-Omran?affiliations=OWNER&style=for-the-badge&color=714B67" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAhmed-Samy-Omran&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=714B67" alt="Public repos" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Ahmed-Samy-Omran">
     <img src="https://streak-stats.demolab.com/?user=Ahmed-Samy-Omran&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/714B67/Ahmed-Samy-Omran" alt="Contribution chart" width="100%" />
 </p>
 
 ---
